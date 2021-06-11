@@ -1,0 +1,6 @@
+li.active {
+  color: red;
+}
+ul > li {
+  transition: all 0.35s ease-in-out 0s;
+}
